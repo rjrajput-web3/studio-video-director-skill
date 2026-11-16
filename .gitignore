@@ -1,0 +1,20 @@
+# Build + test artefacts
+tests/tmp/
+__pycache__/
+*.pyc
+*.pyo
+
+# Paid Pro pack — NEVER committed to the public repo (lives in ~/workspace/releases/studio-video-director-pro/)
+pro-bundle/
+pro-bundle.zip
+
+# Render outputs (masters live in renders/ by convention, never committed)
+renders/
+output/
+*.mp4
+*.wav
+*.srt
+
+# OS / editor
+.DS_Store
+Thumbs.db
