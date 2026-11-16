@@ -107,8 +107,7 @@ The free tier gates your video. **Pro builds it.**
 | 18 niche templates | Product commercials, movie breakdowns, viral clipping hooks, hackathon demos, SaaS demos, testimonials, explainers, unboxings, tutorials, trailers, podcast clips, fitness, food, travel, finance, education, gaming, real estate |
 | Batch gate | One command gates a whole folder of renders and writes a Markdown + JSON report |
 
-**Pro Edition is available on Whop / Gumroad** (listing link added at
-publish time). It ships as `pro-bundle.zip` — same $0 tooling, no paid
+**Pro Edition — $11 one-time:** [Buy on Gumroad](https://gumroad.com/checkout?product=nwdyyu&quantity=1) · [Buy on Payhip](https://payhip.com/buy?s=1&cart_links%5B%5D=ZrxPs&qty%5BZrxPs%5D=1). It ships as `pro-bundle.zip` — same $0 tooling, no paid
 APIs, no subscriptions inside the scripts themselves.
 
 ## The 10 quality gates (no waivers)
